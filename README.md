@@ -4,6 +4,7 @@
 
 Hakkımda
 
+Bazı tuşlar
 -  Shift   =>    's' 
 -  Cos     =>    'z' 
 -  Sin     =>    'x'
