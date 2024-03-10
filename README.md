@@ -4,12 +4,15 @@
 
 Hakkımda
   Bazı Tuşlar
-    Shift      =>    's' 
-    Cos        =>    'z' 
-    Sin        =>    'x' 
-    Eşittir    =>    'Enter' 
-    Ans        =>    'Sağ Ok Tuşu'
-    Silme      =>    'Backspace'
+    - Shift      =>    's' 
+      - Cos        =>    'z' 
+      -   Sin        =>    'x'
+      -    Eşittir    =>    'Enter' 
+      -    Ans        =>    'Sağ Ok Tuşu'
+      -    Silme      =>    'Backspace'
+    
+    
+    
 
 Versiyon 1.01 (22.02.2024)
      Hesap makinesine fiziksel tuşların bağlantısı yapıldı.
