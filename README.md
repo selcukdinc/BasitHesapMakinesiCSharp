@@ -1,3 +1,7 @@
+Uygulamadan | Görüntüler
+--|--
+![Ekran görüntüsü 2025-01-08 104446](https://github.com/user-attachments/assets/882a65c5-dc8f-40c8-8da5-32001ef2a55e)|![resim](https://github.com/user-attachments/assets/054bbe30-a767-4f2b-a4c2-db1e895442f8)
+
 Özellikler
   - Toplama, çıkartma, bölme, çarpma özelliklerini temel düzeyde yapabilir
   - Shift butonu ile butonlara 2. özellik eklenebilir
